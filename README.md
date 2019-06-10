@@ -18,5 +18,6 @@ API endpoints:
 
 - get 'search/climate/:term': based on a climate search term, will return an object of all the planets that have this climate-type, and will log in the console all dark-haired characters that live on this planet.
 
-Examples of titles of Star Wars movies: A New Hope, Attack of the Clones, The Phantom Menace, Revenge of the Sith, Return of the Jedi, The Empire Strikes Back, The Force Awaken.
-Examples of Climate-types: temperate, murky, frozen, tropical, arid
+- Examples of titles of Star Wars movies: A New Hope, Attack of the Clones, The Phantom Menace, Revenge of the Sith, Return of the Jedi, The Empire Strikes Back, The Force Awaken.
+
+- Examples of Climate-types: temperate, murky, frozen, tropical, arid
